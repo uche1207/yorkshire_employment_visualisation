@@ -1,7 +1,6 @@
 \# Data Visualisation Project
 
 
-
 \## Overview
 
 This project analyses industry employment trends in Yorkshire and the Humber from 2015 to 2024, focusing on the impacts of COVID-19 and subsequent recovery. The analysis uses a composite visualisation of four charts to explore temporal trends, relative changes, recovery trajectories, and sectoral resilience.
