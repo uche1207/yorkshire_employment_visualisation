@@ -1,33 +1,39 @@
-# Data Visualisation Project
+# Yorkshire Employment Data Visualisation
 
 ## Project Overview
-This project explores industry employment trends in Yorkshire and the Humber from 2015 to 2024, with a focus on the impacts of COVID-19 and the subsequent recovery. I created a composite visualisation that combines four charts to look at temporal trends, relative changes, recovery trajectories and sectoral resilience.
+This project analyses industry employment trends in Yorkshire and the Humber from 2015 to 2024, with a focus on the impact of COVID-19 and the recovery period.  
+The work presents a composite visualisation combining four charts to examine time trends, relative change, recovery patterns, and sector resilience.
 
 ## Key Questions
-- How did employment levels change across industries during and after COVID-19?
-- Which industries were most affected and which recovered fastest?
-- How do pre-pandemic employment sizes relate to recovery rates?
+- How employment levels changed across industries during and after COVID-19  
+- Which industries experienced the largest declines and fastest recovery  
+- How pre pandemic employment size relates to recovery speed  
 
 ## Repository Contents
-- **data_visualisation_code.R** – R scripts used to generate all visualisations
-- **bres_yorkshire_industry.xlsx** – Dataset of annual employment counts by industry
-- **Figures/** – Folder containing all plots:
-  - Line chart (Chart A)
-  - Heatmap (Chart B)
-  - Small multiples (Chart C)
-  - Scatterplot (Chart D)
-  - Composite visualisation combining all four
+- `data_visualisation_code.R`  
+  R scripts used to generate all visualisations  
+
+- `bres_yorkshire_industry.xlsx`  
+  Dataset containing annual employment counts by industry  
+
+- `Figures/`  
+  Folder containing all plots:  
+  - Line chart  
+  - Heatmap  
+  - Small multiples  
+  - Scatterplot  
+  - Composite visualisation combining all four charts  
 
 ## Visualisation Approach
-- Combined four charts into a single composite visualisation to provide multiple perspectives
-- Used ASSERT framework and Grammar of Graphics principles to design clear, interpretable charts
-- Focused on accessibility and clarity so insights were easy to understand
+- Combined four chart types into a single composite view to provide multiple analytical perspectives  
+- Applied Grammar of Graphics principles and the ASSERT framework  
+- Prioritised clarity, consistency, and accessibility  
 
 ## Key Findings
-- COVID-19 disrupted employment differently across industries
-- Some sectors recovered quickly, while others remained below pre-pandemic levels
-- The composite visualisation highlights structural shifts and sectoral resilience
+- COVID-19 affected industries unevenly across the region  
+- Some sectors recovered rapidly, while others stayed below pre pandemic levels  
+- The composite view highlights structural change and sector resilience  
 
-## Author  
-**Uche Dumzo-Ajufo**  
+## Author
+Uche Dumzo-Ajufo  
 MSc Data Science, University of Sheffield  
