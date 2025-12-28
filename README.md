@@ -1,4 +1,6 @@
 # Yorkshire Employment Data Visualisation
+![Composite employment visualisation](Figures/composite_visualisation.png)
+*Composite visualisation of industry employment trends in Yorkshire and the Humber, 2015-2024.*
 
 ## Project Overview
 This project analyses industry employment trends in Yorkshire and the Humber from 2015 to 2024, with a focus on the impact of COVID-19 and the recovery period.  
