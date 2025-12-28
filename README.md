@@ -27,7 +27,6 @@ The work presents a composite visualisation combining four charts to examine tim
 ## Visualisation Approach
 - Combined four chart types into a single composite view to provide multiple analytical perspectives  
 - Applied Grammar of Graphics principles and the ASSERT framework  
-- Prioritised clarity, consistency, and accessibility  
 
 ## Key Findings
 - COVID-19 affected industries unevenly across the region  
